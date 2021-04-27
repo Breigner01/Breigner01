@@ -2,7 +2,7 @@
 
 I really enjoy programming, mostly in C++ at the moment.
 
-I also enjoy shootign pictures, for more about it you can go check my [flickr](https://www.flickr.com/photos/185761672@N04/) out.
+I also enjoy shooting pictures, for more about it you can go check my [flickr](https://www.flickr.com/photos/185761672@N04/) out.
 
 <code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
 <code><img src="https://visitor-badge.glitch.me/badge?page_id=Breigner01&style=flat-square"/></code>
