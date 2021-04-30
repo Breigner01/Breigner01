@@ -28,4 +28,4 @@ I also enjoy shooting pictures, for more about it you can go check my [flickr](h
 
 #### Other hobbies
 
-[<img src='https://brandeps.com/logo-download/F/Flickr-Icon-logo-vector-01.svg' alt='flickr' height='40'>](https://www.flickr.com/photos/185761672@N04/)
+[<img src='https://cdn.kustomerhostedcontent.com/media/5aecd7338a0607779d1ec9cc/9bbb8cdc9a35c4502fd1bdaf7cea367e.png' alt='flickr' height='40'>](https://www.flickr.com/photos/185761672@N04/)
