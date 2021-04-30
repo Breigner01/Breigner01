@@ -23,9 +23,9 @@ I also enjoy shooting pictures, for more about it you can go check my [flickr](h
 
 #### Contact me!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Breigner01)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/breigner/)
+[<img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/github-icon.svg' alt='github' height='40'>](https://github.com/Breigner01)
+[<img src='https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619814243~hmac=2267c9a9d831183d4313f3d025ec1dd4' alt='linkedin' height='40'>](https://linkedin.com/in/breigner/)
 
 #### Other hobbies
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flickr.svg' alt='flickr' height='40'>](https://www.flickr.com/photos/185761672@N04/)
+[<img src='https://brandeps.com/logo-download/F/Flickr-Icon-logo-vector-01.svg' alt='flickr' height='40'>](https://www.flickr.com/photos/185761672@N04/)
