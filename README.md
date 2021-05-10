@@ -19,7 +19,7 @@ I also enjoy shooting pictures, for more about it you can go check my [flickr](h
 ## ⚡ Github Stats
 
 ![Breigner01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breigner01&theme=vision-friendly-dark&show_icons=true&count_private=true)
-![Breigner01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Breigner01&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool)
+![Breigner01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Breigner01&langs_count=6&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool)
 
 #### Contact me!
 
