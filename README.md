@@ -18,12 +18,14 @@ I also enjoy shooting pictures, for more about it you can go check my [flickr](h
 
 ## ⚡ Github Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Breigner01&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Breigner01's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breigner01&langs_count=6&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool" alt="Breigner01's Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Breigner01&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Breigner01's GitHub stats" width="54%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breigner01&langs_count=6&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool" alt="Breigner01's Top Languages" width="45%"/>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Breigner01&theme=vision-friendly-dark" alt="GitHub Streak"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Breigner01&theme=vision-friendly-dark" alt="GitHub Streak"/>
+</p>
+  
 #### Contact me!
 
 [<img src='https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619814243~hmac=2267c9a9d831183d4313f3d025ec1dd4' alt='linkedin' height='40'>](https://linkedin.com/in/breigner/)
